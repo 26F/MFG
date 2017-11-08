@@ -7,7 +7,7 @@ Type yes or no for drums.
 
 Type yes to set speed, else it will do so randomly.
 
-If yes try around 2000 give or take.
+If yes try around 500.
 
 The number of files you want created.
 
